@@ -1,3 +1,8 @@
+> :warning: **Deprecation warning**: I wrote this a very long time ago and no longer use CI - Or any PHP framework for that matter. I stay away from PHP like the plague. But since people seem to continue to star/watch it, I'll leave it up here.
+> 
+> Someone please steal this and make it better.
+
+
 # CI3_Plugin_System
 Plugin system for CodeIgniter 3
 
